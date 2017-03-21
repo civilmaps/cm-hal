@@ -4,6 +4,9 @@
 *.o
 *.obj
 
+# Make generated dependency files
+*.d
+
 # Precompiled Headers
 *.gch
 *.pch
