@@ -148,7 +148,7 @@ bool laser_file_reader::next_packet(const unsigned char*& data, unsigned int& da
         case VELO_64_TYPE:
             data_length = header->len - VELO_BYTES_TO_SKIP;
             data = data + VELO_BYTES_TO_SKIP;
-            time_since_start = 1486142634;//get_elapsed_time(header->ts, this->start_time);
+            time_since_start = get_elapsed_time(header->ts, this->start_time);
             //cout << "time since start: " << time_since_start << endl;
             break;
     }
