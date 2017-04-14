@@ -1,6 +1,6 @@
 # CM-HAL
 
-## GETTING STARTED WITH SENSOR DATA MARCH-JUNE 2017
+## GETTING STARTED WITH SENSOR DATA -- MARCH-JUNE 2017
 ## ABOUT THE SERIES
 
 This series is about working with sensor data for autonomous vehicles and is based on Civil Maps’ real world experiences with these technologies. We started working with LiDAR data in 2013. We were providing 3D mapping for heavy industries such as railroads and pipeline projects. For the purpose of these sessions, we are focused on LiDAR, IMU, and sensor fusion, although other sensors may be discussed in future webinars. 
