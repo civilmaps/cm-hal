@@ -7,11 +7,9 @@ This series is about working with sensor data for autonomous vehicles and is bas
 
 *Session One:*  Here we cover some basics of how LiDAR works with an emphasis on how Civil Maps uses LiDAR. Via a code walkthrough, we show you how to read a sample LiDAR dataset and how to visualize it in a visualizer. We are open-sourcing our hardware abstraction layer (HAL). The discussion includes transforming spherical coordinates into the cartesian system. We talk about packet structure and provide a quick look at our Atlas DevKit and Atlas DevKit Lite, which are low-cost hardware/software development kits for localization, 3D mapping, and data collection. 
 
-## LINKS ##
+LINKS 
 [Github](https://github.com/civilmaps/cm-hal)
-
 [Video Playlist](https://www.youtube.com/playlist?list=PLOafHcC21SxB2aVWjAQ49mK6jWYBiO_G_)
-
 [Slides](https://www.slideshare.net/Civilmaps/webinar-1-lidar-basics)
 
 *Session Two (Thursday, April 27th 1:30 PM PST (4:30 PM EST):* We discuss how GPS and IMU work together in the context of capturing vehicle motion and a simple technique for creating a trajectory from a sample set of IMU data. After part 1 & 2 you will be able to generate a point cloud by fusing the IMU trajectory and the LiDAR data.
