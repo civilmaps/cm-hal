@@ -5,6 +5,8 @@
 
 This series is about working with sensor data for autonomous vehicles and is based on Civil Maps’ real world experiences with these technologies. We started working with LiDAR data in 2013. We were providing 3D mapping for heavy industries such as railroads and pipeline projects. For the purpose of these sessions, we are focused on LiDAR, IMU, and sensor fusion, although other sensors may be discussed in future webinars. 
 
+[REGISTER HERE](http://civilmapswebinar.pagedemo.co/)
+
 *Session One:*  Here we cover some basics of how LiDAR works with an emphasis on how Civil Maps uses LiDAR. Via a code walkthrough, we show you how to read a sample LiDAR dataset and how to visualize it in a visualizer. We are open-sourcing our hardware abstraction layer (HAL). The discussion includes transforming spherical coordinates into the cartesian system. We talk about packet structure and provide a quick look at our Atlas DevKit and Atlas DevKit Lite, which are low-cost hardware/software development kits for localization, 3D mapping, and data collection. 
 
 ## LINKS ##
