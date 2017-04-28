@@ -15,7 +15,7 @@ LINKS
 [Video Playlist](https://www.youtube.com/playlist?list=PLOafHcC21SxB2aVWjAQ49mK6jWYBiO_G_)
 [Slides](https://www.slideshare.net/Civilmaps/webinar-1-lidar-basics)
 
-*Session Two (Thursday, April 27th 1:30 PM PST (4:30 PM EST):* We discuss how GPS and IMU work together in the context of capturing vehicle motion and a simple technique for creating a trajectory from a sample set of IMU data. After part 1 & 2 you will be able to generate a point cloud by fusing the IMU trajectory and the LiDAR data.
+*Session Two (Tuesday, May 9th 1:30 PM PST (4:30 PM EST):* We discuss how GPS and IMU work together in the context of capturing vehicle motion and a simple technique for creating a trajectory from a sample set of IMU data. After part 1 & 2 you will be able to generate a point cloud by fusing the IMU trajectory and the LiDAR data.
 
 *Session Three (Thursday, May 25th 1:30 PM PST (4:30 PM EST):* The conversation covers transforming LiDAR data from different vehicle mounting positions. We also talk about the time synchronization between LiDAR and IMU.
 
