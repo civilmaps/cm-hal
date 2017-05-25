@@ -81,7 +81,7 @@ def process_image(img, outlines, show_images):
 if __name__ == '__main__':
 
     # path = "/home/scott/Downloads/frame_01623.png"
-    unannotated_directory_path = "frames_1/"
+    unannotated_directory_path = "frames/"
     signal_outline_path = 'signal_outlines.json'
     starting_frame = 500
     ending_frame = 500
