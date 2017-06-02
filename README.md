@@ -18,11 +18,16 @@ LINKS
 *Session Two:* We discuss how GPS and IMU work together in the context of capturing vehicle motion and a simple technique for creating a trajectory from a sample set of IMU data. After part 1 & 2 you will be able to generate a point cloud by fusing the IMU trajectory and the LiDAR data.
 
 LINKS 
-[Github **Coming Soon**}
+[Github]**Coming Soon**
 [Video Playlist](https://www.youtube.com/playlist?list=PLOafHcC21SxBcup78ZfsHowsVFfHLP-tf)
 [Slides](https://www.slideshare.net/Civilmaps/webinar-2-imu-gps)
 
 *Session Three (Thursday, May 25th 1:30 PM PST (4:30 PM EST)):* This conversation covers general sensor fusion concepts. It begins with a discussion about using 3D semantic maps in sensor fusion. The talk also includes a look at hardware prerequisites (spatial and temporal). Near the end of the seminar, attendees will download some code. They’ll use that to work with Civil Maps cognition. 
+
+LINKS
+[Github](https://github.com/civilmaps/cm-hal/tree/master/scripts/webinar3)
+[Video Playlist]**Coming Soon**
+[Slides](https://www.slideshare.net/Civilmaps/webinar-3-sensor-fusion)
 
 *Session Four (Thursday, June 29th 1:30 PST (4:30 PM EST)):* For the last segment, we will work with a synthetic dataset to explore additional concepts in fusion and cognition.
 
