@@ -24,7 +24,7 @@ LINKS
 
 *Session Three (Thursday, May 25th 1:30 PM PST (4:30 PM EST)):* This conversation covers general sensor fusion concepts. It begins with a discussion about using 3D semantic maps in sensor fusion. The talk also includes a look at hardware prerequisites (spatial and temporal). Near the end of the seminar, attendees will download some code. They’ll use that to work with Civil Maps cognition. 
 
-*Session Four (Thursday, June 29th 1:30 PST (4:30 PM EST)):* For the last segment, we create and register a point cloud by fusing LiDAR and IMU sensor data
+*Session Four (Thursday, June 29th 1:30 PST (4:30 PM EST)):* For the last segment, we will work with a synthetic dataset to explore additional concepts in fusion and cognition.
 
 ## INSTRUCTORS
 
