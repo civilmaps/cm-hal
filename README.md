@@ -26,13 +26,21 @@ LINKS
 
 LINKS
 [Github](https://github.com/civilmaps/cm-hal/tree/master/scripts/webinar3)
-[Video Playlist](**Coming Soon**)
+[Video Playlist](https://www.youtube.com/watch?v=kpJIJ1OBwas&list=PLOafHcC21SxDXuC4tIKGsAgCdQ03aj0RO)
 [Slides](https://www.slideshare.net/Civilmaps/webinar-3-sensor-fusion)
 
-*Session Four (Thursday, June 29th 1:30 PST (4:30 PM EST)):* For the last segment, we will work with a synthetic dataset to explore additional concepts in fusion and cognition.
+*Session Four (Thursday, June 29th 1:30 PST (4:30 PM EST)):* For the last segment, we will work with a synthetic dataset to explore additional concepts in fusion and cognition. Hosted by instructors Scott Harvey, Melody Li, and Michaela Gwynn. We demonstrated how an HD Semantic Map can be fused with other sensors for a self-driving car; Showed how using HD Semantic Map information can help with route planning and controlling the vehicle for a better experience; And we walked through Atlas Devkit and illustrate installation.
+
+LINKS
+[Github](**Coming Soon**)
+[Video Playlist](**Coming Soon**)
+[Slides](https://www.slideshare.net/Civilmaps/webinar-4-sensor-fusion-part-2)
+
 
 ## INSTRUCTORS
 
 **Scott Harvey** is a Co-founder and Computer Vision Engineer at Civil Maps. He leads engineering efforts for the Localization team, which has developed innovative compression technology and localization in 6 dimensions for autonomous vehicles. Scott has technical expertise in Computer Vision and Control Systems. He earned engineering degrees from Brown University and Stanford University. When he’s not working on localizing self-driving cars in six degrees of freedom, Scott plays in a band called “Tourist Club.”           
 
 **David Bulnes** is the Technical Consultant for the DevKit team at Civil Maps. He works on the company’s data pipeline, which includes fusing sensor information from R&D and embedded integration with automotive customers. His experience spans an array of technologies in software, mechanical engineering, and robotics. In previous roles, David served on robotics teams at Tesla Motors and in research and development at Visa. His early software development experience includes an embedded systems consulting practice as well as positions at Cisco, Caravan Interactive, and Motrr. David studied at the University of California, Santa Cruz, earning a degree in Computer Engineering and Electrical Engineering with a concentration in Robotics and Control Systems.  A motorcycle enthusiast, he spends weekend time riding and working on his bike, playing with analog guitar pedals, and bouldering.
+
+**Fabien Chraim** is a Co-founder and VP of Research & Development at Civil Maps, a San Francisco-based technology company developing cognition for autonomous vehicles. Under his leadership, Civil Maps is pioneering new ways for self-driving cars to precisely localize themselves in six dimensions and crowdsource dynamic, 3D maps at continental scale. Chraim has received several awards for his efforts in research, teaching, and sensing technology. He also possesses patents for machine vision and vehicle control in his name. After completing a bachelor’s of engineering in Electrical and Computer Engineering from the American University of Beirut, he earned a master’s degree in Civil Systems Engineering and a PhD in Electrical Engineering and Computer Sciences from the University of California, Berkeley.
