@@ -26,7 +26,7 @@ LINKS
 
 LINKS
 [Github](https://github.com/civilmaps/cm-hal/tree/master/scripts/webinar3)
-[Video Playlist](**Coming Soon**)
+[Video Playlist](https://www.youtube.com/playlist?list=PLOafHcC21SxDXuC4tIKGsAgCdQ03aj0RO)
 [Slides](https://www.slideshare.net/Civilmaps/webinar-3-sensor-fusion)
 
 *Session Four (Thursday, June 29th 1:30 PST (4:30 PM EST)):* For the last segment, we will work with a synthetic dataset to explore additional concepts in fusion and cognition.
